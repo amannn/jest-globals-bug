@@ -8,12 +8,10 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {
+  "devDependencies": {
     "@jest/globals": "29.3.1",
     "jest": "29.3.1",
-    "next": "13.0.7-canary.3"
-  },
-  "devDependencies": {
+    "next": "13.0.7-canary.3",
     "@babel/core": "7.20.5",
     "@babel/preset-env": "7.20.2",
     "babel-jest": "29.3.1"
